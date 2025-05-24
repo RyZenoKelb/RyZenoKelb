@@ -12,7 +12,7 @@
 
 ### 📫 Contacte-moi :
 - 🌐 Site : [creolab.fr](https://creolab.fr)
-- 📸 Insta : [@creolab.agency](https://instagram.com/creolab.fr)
+- 📸 Insta : [@creolab.fr](https://instagram.com/creolab.fr)
 - 📩 Mail : `contact@creolab.fr`
 
 ---
