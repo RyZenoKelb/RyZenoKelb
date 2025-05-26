@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Gabriel (aka RyZeno)</h1>
+<h1 align="center">Salut👋🏼, je suis Gabriel (aka RyZeno)</h1>
 <h3 align="center">Développeur Web & FiveM passionné par la tech et le design 🧠</h3>
 
 ---
